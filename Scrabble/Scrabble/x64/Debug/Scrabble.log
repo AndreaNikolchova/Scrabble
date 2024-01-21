@@ -1,0 +1,3 @@
+﻿  Scrabble.cpp
+C:\Users\Adi\Desktop\FMI\Introduction to programming Practicum\Scrabble\Scrabble\Scrabble.cpp(95): warning C4715: 'getVowel': not all control paths return a value
+  Scrabble.vcxproj -> C:\Users\Adi\Desktop\FMI\Introduction to programming Practicum\Scrabble\x64\Debug\Scrabble.exe
